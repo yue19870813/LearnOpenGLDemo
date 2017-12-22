@@ -120,6 +120,7 @@
     <ClCompile Include="MoreAttributes.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\extends\src\Shader.h" />
     <ClInclude Include="MoreAttributes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

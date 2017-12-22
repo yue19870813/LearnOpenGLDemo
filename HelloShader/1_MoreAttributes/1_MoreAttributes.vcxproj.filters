@@ -26,5 +26,8 @@
     <ClInclude Include="MoreAttributes.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\extends\src\Shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
